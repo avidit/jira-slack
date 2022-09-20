@@ -1,0 +1,7 @@
+{
+  "name": "jira-slack",
+  "description": "A slack slash command to get jira issue details from slack",
+  "repository": "https://github.com/avidit/jira-slack",
+  "keywords": ["jira", "slack", "jira-slack"],
+  "env": {"SLACK_TOKEN": null}
+}
